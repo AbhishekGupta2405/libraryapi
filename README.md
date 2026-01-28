@@ -5,7 +5,7 @@ In-Memory Library API – A Spring Boot REST API that allows users to add, retri
 ## 2. Setup Instructions
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/AbhishekGupta2405/libraryapi.git
 cd libraryapi
 mvn spring-boot:run
 ```
